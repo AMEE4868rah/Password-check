@@ -1,7 +1,18 @@
 # Password-check
-A simple password checker that will check your password and tell you weather it's weak, medium or strong.
-# Password Strength Checker
+Password Strength Checker
 
-This project checks if a password is strong, medium, or weak.
+ Description
+This project checks if a password is strong, medium, or weak using Python.
 
-Built with Python.
+ Features
+- Checks password length
+- Detects uppercase and lowercase letters
+- Detects numbers and special characters
+
+ How to Run
+1. Open the file
+2. Run using Python
+3. Enter your password
+
+Author
+Hauwau Ladan 
